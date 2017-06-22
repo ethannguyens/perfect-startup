@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "5b972e3e30c460d63439d4f20e571a77"
+build_time: [551475173, 174950000]
+inputs:
+  "/Users/ethannguyen/Study/perfect-startup/Sources/main.swift": [551475034, 0]
