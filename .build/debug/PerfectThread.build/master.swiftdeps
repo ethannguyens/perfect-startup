@@ -1,7 +1,0 @@
-version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
-options: "c82efaae62b420f9d68f31e90d1f5a17"
-build_time: [551475149, 54946000]
-inputs:
-  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-Thread.git-6541237758607105655/Sources/Promise.swift": [551475129, 0]
-  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-Thread.git-6541237758607105655/Sources/Threading.swift": [551475129, 0]
-  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-Thread.git-6541237758607105655/Sources/ThreadQueue.swift": [551475129, 0]
