@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ethannguyen/Study/perfect-startup/.build/debug/perfect_startup.build/master.swiftdeps"
+  },
+  "/Users/ethannguyen/Study/perfect-startup/Sources/main.swift": {
+    "dependencies": "/Users/ethannguyen/Study/perfect-startup/.build/debug/perfect_startup.build/main.d",
+    "object": "/Users/ethannguyen/Study/perfect-startup/.build/debug/perfect_startup.build/main.swift.o",
+    "swiftmodule": "/Users/ethannguyen/Study/perfect-startup/.build/debug/perfect_startup.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/ethannguyen/Study/perfect-startup/.build/debug/perfect_startup.build/main.swiftdeps"
+  }
+}

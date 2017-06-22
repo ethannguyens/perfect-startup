@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "334f327162d4101dfc0024c39b57bc58"
+build_time: [551475171, 610526000]
+inputs:
+  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HPACK.swift": [551475128, 0]
+  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP11Request.swift": [551475128, 0]
+  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP11Response.swift": [551475128, 0]
+  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2.swift": [551475128, 0]
+  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPContentCompression.swift": [551475128, 0]
+  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServer.swift": [551475128, 0]
+  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServerEx.swift": [551475128, 0]
+  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServerExConfig.swift": [551475128, 0]

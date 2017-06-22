@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "e0f28f942c2b2426f395dcbca6cef0f4"
+build_time: [551475155, 640091000]
+inputs:
+  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/Net.swift": [551475129, 0]
+  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetAddress.swift": [551475129, 0]
+  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetEvent.swift": [551475129, 0]
+  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetNamedPipe.swift": [551475129, 0]
+  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetTCP.swift": [551475129, 0]
+  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetTCPSSL.swift": [551475129, 0]
+  "/Users/ethannguyen/Study/perfect-startup/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetUDP.swift": [551475129, 0]

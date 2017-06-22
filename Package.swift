@@ -4,7 +4,7 @@ let package = Package(
     name: "perfect-startup",
     dependencies: [
         .Package(
-        url: "https://github.com/ethannguyens/perfect-startup",
+        url: "https://github.com/PerfectlySoft/Perfect-HTTPServer.git",
         majorVersion: 2
         )
     ]
